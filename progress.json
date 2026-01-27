@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:41.690Z",
+  "generated_at": "2026-09-20T18:17:43.175Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,45 @@
       "last_pushed_at": "2026-01-26T18:48:37.918Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-01-27T09:39:27.039Z",
+      "last_pushed_at": "2026-01-27T09:39:27.039Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-01-27T12:58:33.536Z",
+      "last_pushed_at": "2026-01-27T12:58:33.536Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:51": {
+      "kind": "problem",
+      "id": "51",
+      "title": "Optimal String Alignment Distance",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/51",
+      "path": "problems/0051-optimal-string-alignment-distance",
+      "first_solved_at": "2026-01-27T13:57:50.418Z",
+      "last_pushed_at": "2026-01-27T13:57:50.418Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
