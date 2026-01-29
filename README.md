@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-01-26 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-01-26 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-01-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-01-27 | [solution](problems/0051-optimal-string-alignment-distance) |
 
 ---
