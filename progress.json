@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:44.737Z",
+  "generated_at": "2026-09-20T18:17:46.175Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,45 @@
       "last_pushed_at": "2026-01-29T13:56:42.594Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:322": {
+      "kind": "problem",
+      "id": "322",
+      "title": "Bradley-Terry Model for Pairwise Rankings",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/322",
+      "path": "problems/0322-bradley-terry-model-for-pairwise-rankings",
+      "first_solved_at": "2026-01-30T09:23:53.972Z",
+      "last_pushed_at": "2026-01-30T09:23:53.972Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-01-30T11:34:24.760Z",
+      "last_pushed_at": "2026-01-30T11:34:24.760Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:90": {
+      "kind": "problem",
+      "id": "90",
+      "title": "BM25 Ranking ",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/90",
+      "path": "problems/0090-bm25-ranking",
+      "first_solved_at": "2026-01-30T13:35:40.861Z",
+      "last_pushed_at": "2026-01-30T13:35:40.861Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
