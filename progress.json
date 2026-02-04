@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:46.175Z",
+  "generated_at": "2026-09-20T18:17:47.667Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -247,6 +247,32 @@
       "last_pushed_at": "2026-01-30T13:35:40.861Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-02-04T10:57:32.591Z",
+      "last_pushed_at": "2026-02-04T10:57:32.591Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:317": {
+      "kind": "problem",
+      "id": "317",
+      "title": "Rubric-Based LLM Judge Evaluation",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/317",
+      "path": "problems/0317-rubric-based-llm-judge-evaluation",
+      "first_solved_at": "2026-02-04T11:27:44.529Z",
+      "last_pushed_at": "2026-02-04T11:27:44.529Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
