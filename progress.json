@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:47.667Z",
+  "generated_at": "2026-09-20T18:17:49.158Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,45 @@
       "last_pushed_at": "2026-02-04T11:27:44.529Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:318": {
+      "kind": "problem",
+      "id": "318",
+      "title": "Boxed Answer Extraction for Math Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/318",
+      "path": "problems/0318-boxed-answer-extraction-for-math-benchmarks",
+      "first_solved_at": "2026-02-05T09:57:43.864Z",
+      "last_pushed_at": "2026-02-05T09:57:43.864Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:319": {
+      "kind": "problem",
+      "id": "319",
+      "title": "Math Answer Verification with Equivalence Checking",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/319",
+      "path": "problems/0319-math-answer-verification-with-equivalence-checking",
+      "first_solved_at": "2026-02-05T11:21:48.680Z",
+      "last_pushed_at": "2026-02-05T11:21:48.680Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:323": {
+      "kind": "problem",
+      "id": "323",
+      "title": "Pairwise Preference Judge for LLM Comparison",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/323",
+      "path": "problems/0323-pairwise-preference-judge-for-llm-comparison",
+      "first_solved_at": "2026-02-05T14:12:24.900Z",
+      "last_pushed_at": "2026-02-05T14:12:24.900Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
