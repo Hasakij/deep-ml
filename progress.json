@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:49.158Z",
+  "generated_at": "2026-09-20T18:17:50.643Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -312,6 +312,58 @@
       "last_pushed_at": "2026-02-05T14:12:24.900Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:324": {
+      "kind": "problem",
+      "id": "324",
+      "title": "Code Execution Verifier for Programming Benchmarks",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/324",
+      "path": "problems/0324-code-execution-verifier-for-programming-benchmarks",
+      "first_solved_at": "2026-02-06T09:54:18.297Z",
+      "last_pushed_at": "2026-02-06T09:54:18.297Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-02-06T10:06:30.315Z",
+      "last_pushed_at": "2026-02-06T10:06:30.315Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-02-06T10:46:23.651Z",
+      "last_pushed_at": "2026-02-06T10:46:23.651Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-02-06T13:53:43.285Z",
+      "last_pushed_at": "2026-02-06T13:53:43.285Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }

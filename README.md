@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,7 +18,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-01-13 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-12-19 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-01-13 | [solution](problems/0325-exact-match-score-with-normalization) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-02-06 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-07-17 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-02-06 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-15 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-15 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-07-22 | [solution](problems/0002-transpose-of-a-matrix) |
@@ -27,8 +29,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Boxed Answer Extraction for Math Benchmarks](https://www.deep-ml.com/problems/318) | medium | 2026-02-05 | [solution](problems/0318-boxed-answer-extraction-for-math-benchmarks) |
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-01-30 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-02-06 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-01-26 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-01-26 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-06 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-01-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-02-05 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-30 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
