@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-01-27 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-02-05 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-02-04 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
+| [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-02-09 | [solution](problems/0088-gpt-2-text-generation) |
 
 ---
 
