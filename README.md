@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,11 +18,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-01-13 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-12-19 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-01-13 | [solution](problems/0325-exact-match-score-with-normalization) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-12 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-02-12 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-02-12 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-02-06 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-02-12 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-07-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-02-06 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-15 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-15 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-02-12 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-02-12 | [solution](problems/0024-single-neuron) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-02-12 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-07-22 | [solution](problems/0002-transpose-of-a-matrix) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-01-27 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-01-30 | [solution](problems/0090-bm25-ranking) |
@@ -41,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-02-11 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-02-05 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-02-04 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-02-12 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-02-09 | [solution](problems/0088-gpt-2-text-generation) |
 
 ---

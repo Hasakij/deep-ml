@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:53.655Z",
+  "generated_at": "2026-09-20T18:17:55.134Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -390,6 +390,110 @@
       "last_pushed_at": "2026-02-11T11:19:53.488Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-02-12T08:50:20.080Z",
+      "last_pushed_at": "2026-02-12T08:50:20.080Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-02-12T09:11:30.327Z",
+      "last_pushed_at": "2026-02-12T09:11:30.327Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-02-12T09:26:36.210Z",
+      "last_pushed_at": "2026-02-12T09:26:36.210Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-02-12T10:20:34.368Z",
+      "last_pushed_at": "2026-02-12T10:20:34.368Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-02-12T10:27:27.221Z",
+      "last_pushed_at": "2026-02-12T10:27:27.221Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-02-12T10:29:40.893Z",
+      "last_pushed_at": "2026-02-12T10:29:40.893Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-02-12T11:14:12.211Z",
+      "last_pushed_at": "2026-02-12T11:14:12.211Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-02-12T12:39:08.057Z",
+      "last_pushed_at": "2026-02-12T12:39:08.057Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
