@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:56.791Z",
+  "generated_at": "2026-09-20T18:17:58.215Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -507,6 +507,58 @@
       "last_pushed_at": "2026-02-19T12:57:13.110Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:357": {
+      "kind": "problem",
+      "id": "357",
+      "title": "Handle Imbalanced Data with SMOTE",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/357",
+      "path": "problems/0357-handle-imbalanced-data-with-smote",
+      "first_solved_at": "2026-04-27T18:40:20.558Z",
+      "last_pushed_at": "2026-04-27T18:40:20.558Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-04-27T18:49:54.939Z",
+      "last_pushed_at": "2026-04-27T18:49:54.939Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-04-27T19:07:03.689Z",
+      "last_pushed_at": "2026-04-27T19:07:03.689Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-04-27T19:44:05.984Z",
+      "last_pushed_at": "2026-04-27T19:44:05.984Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
