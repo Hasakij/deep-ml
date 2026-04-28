@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:17:58.215Z",
+  "generated_at": "2026-09-20T18:17:59.709Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -559,6 +559,45 @@
       "last_pushed_at": "2026-04-27T19:44:05.984Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-04-28T11:42:40.643Z",
+      "last_pushed_at": "2026-04-28T11:42:40.643Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-04-28T14:24:04.375Z",
+      "last_pushed_at": "2026-04-28T14:24:04.375Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-04-28T18:33:59.621Z",
+      "last_pushed_at": "2026-04-28T18:33:59.621Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
