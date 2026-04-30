@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-28 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-02-06 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-01-26 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-30 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-01-26 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-04-27 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-06 | [solution](problems/0354-handle-missing-data-with-imputation) |
