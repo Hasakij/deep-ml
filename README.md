@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 49 problems · 0 labs · 0 math
+**52** solved · 52 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,10 +44,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Code Execution Verifier for Programming Benchmarks](https://www.deep-ml.com/problems/324) | medium | 2026-02-06 | [solution](problems/0324-code-execution-verifier-for-programming-benchmarks) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-01-26 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-30 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-05-02 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-05-02 | [solution](problems/0219-derivative-of-softmax) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-01-26 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-04-27 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-02-06 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-01-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-05-02 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-29 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-02-05 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-30 | [solution](problems/0326-mmlu-letter-matching-evaluation) |

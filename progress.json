@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:18:04.347Z",
+  "generated_at": "2026-09-20T18:18:05.959Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -637,6 +637,45 @@
       "last_pushed_at": "2026-05-01T20:20:04.723Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-05-02T10:30:18.078Z",
+      "last_pushed_at": "2026-05-02T10:30:18.078Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-05-02T13:29:30.899Z",
+      "last_pushed_at": "2026-05-02T13:29:30.899Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-05-02T18:48:00.612Z",
+      "last_pushed_at": "2026-05-02T18:48:00.612Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
