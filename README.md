@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Math Answer Verification with Equivalence Checking](https://www.deep-ml.com/problems/319) | medium | 2026-02-05 | [solution](problems/0319-math-answer-verification-with-equivalence-checking) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-01-30 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-02-04 | [solution](problems/0316-mmlu-log-probability-scoring) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-05-03 | [solution](problems/0313-numerical-gradient-checking) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-01-27 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-02-11 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-02-05 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
